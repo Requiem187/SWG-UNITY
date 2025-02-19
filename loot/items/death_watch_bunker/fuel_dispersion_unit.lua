@@ -10,5 +10,5 @@ fuel_dispersion_unit = {
 	customizationStringNames = {},
 	customizationValues = {}
 }
-
+-- test
 addLootItemTemplate("fuel_dispersion_unit", fuel_dispersion_unit)
