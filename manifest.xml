@@ -39,10 +39,10 @@
 		<File path = "miles/mssmp3.asi"  				 update="false" checksum = "43bfc9015cf90c161567fb0c0acaf714" url = "http://www.launchpad2.net/SWGEmu/miles/mssmp3.asi"/>
 		<File path = "miles/msssoft.m3d" 				 update="false" checksum = "3e9029826d8cb962874584ab795a9d31" url = "http://www.launchpad2.net/SWGEmu/miles/msssoft.m3d"/>
 		
-		<File path = "Mod_Project_Borfection.tre"        update="true"  checksum = "276d8c254417e1de1178e3f693a8720f" url = "https://PROVIDE.URL.HERE"/>
-		<File path = "Mod_NGE_Species.tre"               update="true"  checksum = "6e407150b3ff6c7e87d3096ed5184a5c" url = "https://PROVIDE.URL.HERE"/>
-		<File path = "Mod_Smooth_Movement.tre"           update="true"  checksum = "5d4c3bc520cd38dccf29d274684f372c" url = "https://PROVIDE.URL.HERE"/>
-		<File path = "Mod_Sound.tre"                     update="true"  checksum = "52a0b18332186c3c72df722a329ed4e5" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_Project_Borfection.tre"        update="false"  checksum = "276d8c254417e1de1178e3f693a8720f" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_NGE_Species.tre"               update="false"  checksum = "6e407150b3ff6c7e87d3096ed5184a5c" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_Smooth_Movement.tre"           update="false"  checksum = "5d4c3bc520cd38dccf29d274684f372c" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_Sound.tre"                     update="false"  checksum = "52a0b18332186c3c72df722a329ed4e5" url = "https://PROVIDE.URL.HERE"/>
 		
 	</Files>
 	<TREOrder count = "60">
