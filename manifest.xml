@@ -21,7 +21,6 @@
 		<File path = "mtg_patch_009_Shader_01.tre"       update="false" checksum = "4650f95db3bdf55cbf773f2621ed5a9b" url = "https://PROVIDE.URL.HERE"/>
 		<File path = "mtg_patch_010_object_01.tre"       update="false" checksum = "34c498b16d6864af9ffbc6ba844fd37c" url = "https://PROVIDE.URL.HERE"/>
 		<File path = "mtg_patch_011_files_01.tre"        update="false" checksum = "c4d736eefd5908c163a46ef212ff5e4e" url = "https://PROVIDE.URL.HERE"/>
-		<File path = "mtg_patch_012_configurable_01.tre" update="false" checksum = "8e39ce729d015ba0279e1f1512835abd" url = "https://PROVIDE.URL.HERE"/>
 		<File path = "mtg_patch_013_configurable_02.tre" update="false" checksum = "f9d91392e431549e34eb197d88ad29b8" url = "https://PROVIDE.URL.HERE"/>
 		<File path = "mtg_patch_014.tre"                 update="false" checksum = "1509f04efb0638a33e07897aa98ec1c7" url = "https://PROVIDE.URL.HERE"/>
 		<File path = "mtg_patch_015.tre"                 update="false" checksum = "cc61b47d35d40ba6692d7f62ede4422e" url = "https://PROVIDE.URL.HERE"/>
