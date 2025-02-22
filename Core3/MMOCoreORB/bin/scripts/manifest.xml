@@ -1,0 +1,85 @@
+<ManifestFile>
+	<Files>
+		<File path = "dpvs.dll"                          update="false" checksum = "fd25c516087edba23f1f403a65769240" url = "http://www.launchpad2.net/SWGEmu/dpvs.dll"/>
+		<File path = "em05_u.dll"                        update="false" checksum = "eb9bcae9c82ccbb29f0a8c83d26891a8" url = "http://www.launchpad2.net/SWGEmu/em05_u.dll"/>
+		<File path = "em06_u.dll"                        update="false" checksum = "216200d43550b79f6895baeeea3f3138" url = "http://www.launchpad2.net/SWGEmu/em06_u.dll"/>
+		<File path = "em07_u.dll"                        update="false" checksum = "6be3fce7f2aafb441e8fc33073f00d84" url = "http://www.launchpad2.net/SWGEmu/em07_u.dll"/>
+		<File path = "Mss32.dll"                         update="false" checksum = "299be9656aec687795e429a7000facc9" url = "http://www.launchpad2.net/SWGEmu/Mss32.dll"/>
+		<File path = "qt-mt305.dll"                      update="false" checksum = "4acaaa87f1cbb840e266b2360c6e1fe0" url = "http://www.launchpad2.net/SWGEmu/qt-mt305.dll"/>
+		<File path = "s205_r.dll"                        update="false" checksum = "875d3b2a91325b53e9da62af256c3e3c" url = "http://www.launchpad2.net/SWGEmu/s205_r.dll"/>
+		<File path = "s206_r.dll"                        update="false" checksum = "c95f52d9d81c5d62e774f9f1250b6b76" url = "http://www.launchpad2.net/SWGEmu/s206_r.dll"/>
+		<File path = "s207_r.dll"                        update="false" checksum = "593574e730ef8eecbf42c9a440bdcbd6" url = "http://www.launchpad2.net/SWGEmu/s207_r.dll"/>
+		<File path = "dbghelp.dll"                       update="false" checksum = "21e77bcbe81c83284aeea5127c197718" url = "http://www.launchpad2.net/SWGEmu/dbghelp.dll"/>
+		<File path = "mtg_patch_001_appearance_01.tre"   update="false" checksum = "9d3542a7a50e55aa2a0202af944933b7" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_002_appearance_02.tre"   update="false" checksum = "3b38b9e73ec985a1ab6569adf6b1e5b4" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_003_appearance_03.tre"   update="false" checksum = "03ab7e158ff6d815786e1f9d0b027f35" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_004_appearance_04.tre"   update="false" checksum = "fcd873584e6033a067e0f9a5052d3ee1" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_005_texture_01.tre"      update="false" checksum = "525b14712fc72a490c1834e2e624408b" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_006_texture_02.tre"      update="false" checksum = "9439922cdc4dfe15fa4c9b499abb8031" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_007_texture_03.tre"      update="false" checksum = "3fa498401a1ac1cd422969898dc43b73" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_008_texture_04.tre"      update="false" checksum = "d1f1864eaf119d30f6f42d9cd8fea338" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_009_Shader_01.tre"       update="false" checksum = "4650f95db3bdf55cbf773f2621ed5a9b" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_010_object_01.tre"       update="false" checksum = "34c498b16d6864af9ffbc6ba844fd37c" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_011_files_01.tre"        update="false" checksum = "c4d736eefd5908c163a46ef212ff5e4e" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_013_configurable_02.tre" update="false" checksum = "f9d91392e431549e34eb197d88ad29b8" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_014.tre"                 update="false" checksum = "1509f04efb0638a33e07897aa98ec1c7" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_015.tre"                 update="false" checksum = "cc61b47d35d40ba6692d7f62ede4422e" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_016.tre"                 update="false" checksum = "f8dd27d8bfb0f03065fbe30c8aeb2781" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_017.tre"                 update="false" checksum = "a0d9783229b5274b402175802138ff1f" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_018.tre"                 update="false" checksum = "5a88b4f2d62d7af52d99fb3aec7391ec" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_019.tre"                 update="false" checksum = "06d2cbad853ee5a0f63e90f0171d65cb" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_021.tre"                 update="false" checksum = "9bda131fd817c8b5dd280eda7c39bac4" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "mtg_patch_022.tre"                 update="false" checksum = "7531403a209c952c4fdbd13a1d3aea69" url = "https://PROVIDE.URL.HERE"/>
+			
+		<File path = "SWGEmu.exe"                        update="false" checksum = "582f8324c2b280b6b1de1fd00180729d" url = "http://www.launchpad2.net/SWGEmu/SWGEmu.exe"/>
+		<File path = "SWGEmu_Setup.exe"                  update="false" checksum = "aefaeda4c825dae81e746fb5e2eb9d5a" url = "http://www.launchpad2.net/SWGEmu/SWGEmu_Setup.exe"/>
+		<File path = "miles/mssdsp.flt"  				 update="false" checksum = "b88bf9c506cd612fc37b47ad2e1c84b6" url = "http://www.launchpad2.net/SWGEmu/miles/mssdsp.flt"/>
+		<File path = "miles/Msseax.m3d"  				 update="false" checksum = "b24028b6511fa3cb96bcbf1ef2838696" url = "http://www.launchpad2.net/SWGEmu/miles/Msseax.m3d"/>
+		<File path = "miles/mssmp3.asi"  				 update="false" checksum = "43bfc9015cf90c161567fb0c0acaf714" url = "http://www.launchpad2.net/SWGEmu/miles/mssmp3.asi"/>
+		<File path = "miles/msssoft.m3d" 				 update="false" checksum = "3e9029826d8cb962874584ab795a9d31" url = "http://www.launchpad2.net/SWGEmu/miles/msssoft.m3d"/>
+		
+		<File path = "Mod_Project_Borfection.tre"        update="false"  checksum = "276d8c254417e1de1178e3f693a8720f" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_NGE_Species.tre"               update="false"  checksum = "6e407150b3ff6c7e87d3096ed5184a5c" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_Smooth_Movement.tre"           update="false"  checksum = "5d4c3bc520cd38dccf29d274684f372c" url = "https://PROVIDE.URL.HERE"/>
+		<File path = "Mod_Sound.tre"                     update="false"  checksum = "52a0b18332186c3c72df722a329ed4e5" url = "https://PROVIDE.URL.HERE"/>
+		
+	</Files>
+	<TREOrder count = "60">
+		<TRE pos="53" file = "Mod_Project_Borfection.tre" tag = "mod_borfection"/> 
+		<TRE pos="52" file = "Mod_NGE_Species.tre" tag = "mod_hqspecies"/> 
+		<TRE pos="51" file = "Mod_Smooth_Movement.tre" tag = "mod_smoothmovement"/> 
+		<TRE pos="50" file = "Mod_Sound.tre" tag = "mod_sounds"/> 
+		<TRE pos="49" file = "mtg_patch_022.tre"/> 
+		<TRE pos="48" file = "mtg_patch_021.tre"/> 
+		<TRE pos="47" file = "mtg_patch_019.tre"/> 
+		<TRE pos="46" file = "mtg_patch_018.tre"/> 
+		<TRE pos="45" file = "mtg_patch_017.tre"/> 
+		<TRE pos="44" file = "mtg_patch_016.tre"/> 
+		<TRE pos="43" file = "mtg_patch_015.tre"/> 
+		<TRE pos="42" file = "mtg_patch_014.tre"/> 
+		<TRE pos="41" file = "mtg_patch_013_configurable_02.tre"/> 
+		<TRE pos="40" file = "mtg_patch_012_configurable_01.tre"/> 
+		<TRE pos="39" file = "mtg_patch_011_files_01.tre"/> 
+		<TRE pos="38" file = "mtg_patch_010_object_01.tre"/> 
+		<TRE pos="37" file = "mtg_patch_009_Shader_01.tre"/> 
+		<TRE pos="36" file = "mtg_patch_008_texture_04.tre"/> 
+		<TRE pos="35" file = "mtg_patch_007_texture_03.tre"/> 
+		<TRE pos="34" file = "mtg_patch_006_texture_02.tre"/> 
+		<TRE pos="33" file = "mtg_patch_005_texture_01.tre"/> 
+		<TRE pos="32" file = "mtg_patch_004_appearance_04.tre"/> 
+		<TRE pos="31" file = "mtg_patch_003_appearance_03.tre"/> 
+		<TRE pos="30" file = "mtg_patch_002_appearance_02.tre"/> 
+		<TRE pos="29" file = "mtg_patch_001_appearance_01.tre"/> 
+	</TREOrder>
+	<ServerInfo>
+		<Details ip = "154.38.184.160" port = "44453"/>
+	</ServerInfo>
+</ManifestFile>
+
+
+
+
+
+
+
+
